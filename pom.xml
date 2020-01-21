@@ -16,9 +16,9 @@
     </dependency>
   </dependencies>
   <scm>
-    <connection>scm:git:gitea_admin@http://localhost:3000:gitea_admin/tarun.git</connection>
-    <developerConnection>scm:git:gitea_admin@http://localhost:3000:gitea_admin/tarun.git</developerConnection>
-    <url>http://localhost:3000/gitea_admin/tarun</url>
+    <connection>scm:git:git@github.com:tarun-murala/tarun-artifact.git</connection>
+    <developerConnection>scm:git:git@github.com:tarun-murala/tarun-artifact.git</developerConnection>
+    <url>http://github.com/tarun-murala/tarun-artifact</url>
   </scm>
   <distributionManagement>
   	<repository>
